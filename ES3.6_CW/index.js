@@ -1,3 +1,5 @@
+//shorthand
+
 const personName = "Joe";
 const personAge = 25;
 
